@@ -283,16 +283,19 @@ p{
 	content: url(./images/icon-location.svg);
     height: 12px;
 	margin-right: 14px;
+	margin-top: 6px;
 }
 .tel-ico{
 	content: url(./images/icon-phone.svg);
     height: 12px;
 	margin-right: 14px;
+	margin-top: 6px;
 }
 .mail-ico{
 	content: url(./images/icon-email.svg);
     height: 12px;
 	margin-right: 14px;
+	margin-top: 6px;
 }
 
 .fnav .quicklinks{
@@ -736,16 +739,19 @@ p{
 	content: url(./images/icon-location.svg);
     height: 12px;
 	margin-right: 14px;
+	margin-top: 6px;
 }
 .tel-ico{
 	content: url(./images/icon-phone.svg);
     height: 12px;
 	margin-right: 14px;
+	margin-top: 6px;
 }
 .mail-ico{
 	content: url(./images/icon-email.svg);
     height: 12px;
 	margin-right: 14px;
+	margin-top: 6px;
 }
 
 .fnav .quicklinks{
