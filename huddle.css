@@ -508,8 +508,8 @@ p{
 }
 
 
-/* Extra big screen devices (1200px and above) */
-@media only screen and (min-width: 1200px) {
+/* Extra big screen devices (1300px and above) */
+@media only screen and (min-width: 1300px) {
 /* Header section */
 #header {
 	position: fixed;
@@ -570,7 +570,7 @@ p{
 }
 
 #hero .hero {
-	max-width: 1200px;
+	max-width: 1300px;
 	margin: 0 auto;
 	padding: 0 10px;
 	justify-content: center;
